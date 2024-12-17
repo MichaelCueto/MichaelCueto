@@ -14,10 +14,11 @@ I'm **Michael Cueto**, and I hold a **Bachelor's degree in Metallurgical Enginee
 
 ### 🌱 What I Do  
 
-- 💡 **Sólidos conocimientos en Ciencia de Datos y Machine Learning.**  
-- 🖥️ Experiencia en **Frontend**, **Backend**, **Bases de Datos** y **Tecnologías Cloud**.  
-- 🚀 Siempre estoy buscando **aprender y crecer profesionalmente**.  
-- 🌱 Apasionado por la tecnología y la minería.  
+
+- 💡 Strong knowledge in Data Science and Machine Learning.
+- 🖥️ Experience in Frontend, Backend, Databases, and Cloud Technologies.
+- 🚀 Always looking to learn and grow professionally.
+- 🌱 Passionate about technology and mining.
 
 ---
 
