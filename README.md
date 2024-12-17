@@ -14,11 +14,24 @@ I'm **Michael Cueto**, and I hold a **Bachelor's degree in Metallurgical Enginee
 
 ### 🌱 What I Do  
 
+- 💡 Strong knowledge in **Data Science** and **Machine Learning**.  
+- 🖥️ Experience in **Frontend**, **Backend**, **Databases**, and **Cloud Technologies**.  
+- 🚀 Always looking to **learn and grow professionally**.  
+- 🌱 Passionate about **technology** and **mining**.  
 
-- 💡 Strong knowledge in Data Science and Machine Learning.
-- 🖥️ Experience in Frontend, Backend, Databases, and Cloud Technologies.
-- 🚀 Always looking to learn and grow professionally.
-- 🌱 Passionate about technology and mining.
+---
+
+### 🖥️ Technologies  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/aws-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
@@ -36,5 +49,5 @@ I'm **Michael Cueto**, and I hold a **Bachelor's degree in Metallurgical Enginee
 ---
 
 <p align="center">
-  🚀 ¡No dudes en preguntarme sobre cualquier tema relacionado con **tecnología** o **datos**!
+  🚀 Feel free to ask me about anything related to **technology** or **data**!
 </p>
